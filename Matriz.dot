@@ -1,0 +1,6 @@
+digraph G{
+rankdir=LR;Raiz[label="x=0 y=0
+Raiz",shape=circle,group=0];
+Nodo1[shape=circle,label="x=8 y=0
+r",group=8];
+}
